@@ -1,6 +1,6 @@
 
 # VideoTitle
-# These are the process for generating a title an even an abstract for video clips.
+# These are the process for generating a title and even an abstract for video clips.
 
 
 1. VideoFrames file split each video to its frames.
